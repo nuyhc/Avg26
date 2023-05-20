@@ -1,1 +1,6 @@
 yolov5l/
+
+*.pt
+*.csv
+*.mp3
+*.mp4
