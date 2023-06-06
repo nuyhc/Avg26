@@ -27,9 +27,12 @@ def create_background(input_img: str, mood: str)->Image:
     label = results.groupby("name")[["class", "confidence"]].mean().reset_index(drop=False).sort_values("confidence").iloc[-1, 0]
     conf = results.groupby("name")[["class", "confidence"]].mean().reset_index(drop=False).sort_values("confidence").iloc[-1, -1]
     
-    if results.empty: prompt = f"A background with 50% {color_dict[mood]}"
-    else: prompt = f"A background with {conf*100:.2f}% {color_dict[label]}"
+    # if results.empty: prompt = f"A background with 50% {color_dict[mood]}"
+    # else: prompt = f"A background with {conf*100:.2f}% {color_dict[label]}"
+    if results.empty: prompt = f"art style background of feeling the emotion of {mood} with 50% {color_dict[mood]}"
+    else: prompt = f"art style background of feeling the emotion of {label} with {conf*100:. 2f}% {color_dict[label]}"
     
     background = background_generator(prompt).images[0]
     
     return background
+
