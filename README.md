@@ -1,3 +1,28 @@
 # Avg26
 23-1 HUFS Capstone
 ### 관객 감정 인식을 통한 Personal Color Performance
+
+![img](./Template/Avg26_최종발표-01.png)
+![img](./Template/Avg26_최종발표-02.png)
+![img](./Template/Avg26_최종발표-03.png)
+![img](./Template/Avg26_최종발표-04.png)
+![img](./Template/Avg26_최종발표-05.png)
+![img](./Template/Avg26_최종발표-06.png)
+![img](./Template/Avg26_최종발표-07.png)
+![img](./Template/Avg26_최종발표-08.png)
+![img](./Template/Avg26_최종발표-09.png)
+![img](./Template/Avg26_최종발표-10.png)
+![img](./Template/Avg26_최종발표-11.png)
+![img](./Template/Avg26_최종발표-12.png)
+![img](./Template/Avg26_최종발표-13.png)
+![img](./Template/Avg26_최종발표-14.png)
+![img](./Template/Avg26_최종발표-15.png)
+![img](./Template/Avg26_최종발표-16.png)
+![img](./Template/Avg26_최종발표-17.png)
+![img](./Template/Avg26_최종발표-18.png)
+![img](./Template/Avg26_최종발표-19.png)
+![img](./Template/Avg26_최종발표-20.png)
+![img](./Template/Avg26_최종발표-21.png)
+![img](./Template/Avg26_최종발표-22.png)
+![img](./Template/Avg26_최종발표-23.png)
+![img](./Template/Avg26_최종발표-24.png)
