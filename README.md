@@ -1,11 +1,11 @@
+
 # Avg26 (23-1 HUFS Capstone)
 
 # personal Color Performance
 ### Personal Color Performance recognizes a person's picture and shows the submission background as a web.
 
-<b>
-<br>2023.06.21 한국외국어대학교 캡스톤설계 프로젝트 최우수상 수상 </br></b>
-
+<b>2023.06.21 한국외국어대학교 캡스톤설계 프로젝트 최우수상 수상 </b>
+<br>
 
 | **Name** | **Role**                                                     | **Contact**           |
 | -------- | ------------------------ | --------------------- |
@@ -46,8 +46,8 @@
 
  관객 이미지 -> 감정 추정 -> 색상 맵핑 -> 무대 배경 생성의 파이프라인으로 구성
 결과 2. (예시) 관객 이미지와 추정된 감정됩니다.<img width="511" alt="스크린샷 2023-08-03 오후 11 31 30" src="https://github.com/nuyhc/Avg26_Personal_Color_Performance/assets/101984130/11226834-03b2-4a79-a596-5bd73e55958e">
-<img width="524" alt="스크린샷 2023-08-03 오후 11 31 48" src="https://github.com/nuyhc/Avg26_Personal_Color_Performance/assets/101984130/850c0f29-27de-4977-8c75-a3cc2cf0a669">
-<img width="524" alt="스크린샷 2023-08-03 오후 11 31 48" src="https://github.com/nuyhc/Avg26_Personal_Color_Performance/assets/101984130/850c0f29-27de-4977-8c75-a3cc2cf0a669">
+<img width="524" alt="스크린샷 2023-08-03 오후 11 31 48" src="https://github.com/nuyhc/Avg26_Personal_Color_Performance/assets/101984130/850c0f29-27de-4977-8c75-a3cc2cf0a669"><br>
+
  추정된 감정 중, 가장 많이 추정된 감정을 이용해, 해당 감정의 정확도(confidence)를 색상의 조도로 이용해 무대 배경을 생성하게 됩니다.
 
  생성 모델에 의해 무대 배경이 생성되므로, 동일한 입력값이 입력되어도 동일한 배경이 생성될 가능성은 매우 희박합니다.
@@ -112,3 +112,5 @@
 - DJango document
 
 - DjangoRestFramework with python
+
+
