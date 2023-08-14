@@ -5,6 +5,7 @@
 ### Personal Color Performance recognizes a person's picture and shows the submission background as a web.
 
 <b>2023.06.21 한국외국어대학교 캡스톤설계 프로젝트 최우수상 수상 </b>
+(<a href="https://con2.kr/%E3%88%9C%EB%A7%88%EB%A3%A8%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8D%94-%ED%95%9C%EA%B5%AD%EC%99%B8%EB%8C%80%EC%99%80-%EC%82%B0%ED%95%99-%ED%98%91%EB%A0%A5%EC%9C%BC%EB%A1%9C-%EC%98%88%EC%88%A0%EA%B8%B0/"> 캡스톤 수상 관련 기사 </a>)
 <br>
 
 | **Name** | **Role**                                                     | **Contact**           |
